@@ -5,5 +5,6 @@ public class ABC {
 		System.out.println("小刘改了");
 		System.err.println("222222222222222222222222");
 		System.out.println("测试代码！！！！！");
+		System.out.println("++++");
 	}
 }
