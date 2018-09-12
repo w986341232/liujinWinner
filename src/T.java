@@ -5,6 +5,8 @@ public class T {
 		System.out.println("111111");
 		System.out.println("22");
 		
+		
+		System.out.println("込込込込");
 	}
 
 }
